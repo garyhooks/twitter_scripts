@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # Author: Gary Hooks
-# Web: http://www.garyhooks.co.uk
 # Email: garyhooks@gmail.com
 # Publish Date: 7th August 2017
 # Licence: GNU GPL
