@@ -41,7 +41,7 @@ def get_statuses(api, username, target_username, friend_dump_file):
 
         deleted = 0
 
-        for get_statuses in tweepy.Cursor(api.user_timeline, screen_name=target_username, count=1).pages():
+        for get_statuses in tweepy.Cursor(api.user_timeline, screen_name=target_username).pages():
 
             for status in get_statuses:
 
