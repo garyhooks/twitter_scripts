@@ -24,8 +24,8 @@ NEW_FRIENDS_LIMIT = 100
 MAX_READ = 100
 
 # These are keys for the development API and are static
-consumer_key = "fssPhvXzLwmZL4shqnA7GvGLT"
-consumer_secret = "C0DIDjp1sERxmcuJSkFc98l3GF7PtB7ObER6JW4Smrv5rLXkSx"
+consumer_key = "ENTER KEY"
+consumer_secret = "ENTER KEY"
 
 def friend_dump(api, username, target_username, friend_dump_file):
 
